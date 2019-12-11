@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "i create this stream",
+      "description": "edited vrion",
+      "id": 1
+    },
+    {
+      "title": "edit",
+      "description": "kjncvknsdkl",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "this is new",
+      "description": "im here",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "description": "this for streaming",
+      "userId": "112934037428114378850",
+      "id": 4
+    },
+    {
+      "title": "lets edit",
+      "description": "edited version",
+      "userId": "112934037428114378850",
+      "id": 5
+    }
+  ]
+}
